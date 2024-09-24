@@ -54,4 +54,4 @@ const HomePage = () => {
 		</Container>
 	);
 };
-export default HomePage;
+export default Homepage;
